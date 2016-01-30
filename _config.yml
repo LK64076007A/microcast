@@ -27,9 +27,6 @@ timezone: America/New_York
 # Basic
 name:               "Driftwood"
 
-# Markdown
-markdown:           rdiscount
-
 # Navigation
 nav:
   - name:           "About"
