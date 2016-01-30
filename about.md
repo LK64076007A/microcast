@@ -3,8 +3,4 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
-
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
-
-
+The theme for Driftwood is adapted from <a href="http://github.com/gfjaru/Kiko">Kiko</a>, which is courtesy of [@gfjaru](https://twitter.com/gfjaru) under the MIT License.
