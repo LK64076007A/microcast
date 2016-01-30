@@ -18,7 +18,7 @@ block: "no" #means is shown in itunes
 permalink: /2
 ---
 <audio controls>
-  <source src="{{site.url}}{{site.baseurl}}{{ post.file }}" type="audio/x-m4a">
+  <source src="{{site.url}}{{site.baseurl}}{{ post.file}}" type="audio/x-m4a">
 Your browser does not support the audio element.
 </audio>
 {{ post.shownotes }}
