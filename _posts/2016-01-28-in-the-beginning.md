@@ -12,5 +12,5 @@ block: "no" #means is shown in itunes
 permalink: /1
 ---
 {% for post in site.posts %}
-{{ post.summary | xml_escape }}
+{{ post.summary }}
 {% endfor %}
