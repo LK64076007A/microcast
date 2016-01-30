@@ -2,7 +2,7 @@
 layout: post
 title: In the Beginning
 date: 2016-01-28 21:55:44 -0500
-file: //audio/ep1-in-the-beginning.mp3
+file: /audio/ep1.m4a
 excerpt: This is the first episode.
 summary: This is the first episode. A test really. Just a proof of concept to see if this thing could be possible.
 duration: "14:50" #audio length in min
