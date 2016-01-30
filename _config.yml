@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/microcast" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://soitscometothis.net" # the base hostname & protocol for your site
 twitter_username: LK64076007A
 github_username:  LK64076007A  
 
@@ -24,11 +24,10 @@ github_username:  LK64076007A
 
 # Podcast Feed Settings
 
-title:          your-site-title
+title:          Microcast
 email:          your-podcast-contact-email
 description:    "A short form podcast hosted completely Github."
 subtitle:       "Size isn't everything"
-url:            /
 lang:           en-us
 author:         Michael
 copyright:      "&#x2117; &amp; &#xA9; 2016"
