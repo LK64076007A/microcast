@@ -3,4 +3,6 @@ title: About
 permalink: /about/
 ---
 
+Driftwood is a test project for the purpose of creating a lightweight and easy tool for hosting and serving podcasts on Github using Jekyll. Additionally, the goal is to be able to record, edit, and post using just mobile device like an iPhone or iPad. 
+
 The theme for Driftwood is adapted from <a href="http://github.com/gfjaru/Kiko">Kiko</a>, which is courtesy of [@gfjaru](https://twitter.com/gfjaru) under the MIT License.
