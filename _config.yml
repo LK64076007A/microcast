@@ -2,18 +2,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-baseurl: "/microcast" # the subpath of your site, e.g. /blog
-url: "http://soitscometothis.net" # the base hostname & protocol for your site
+baseurl: "/microcast" # repository name
+url: "http://soitscometothis.net" # Either custom domain or http://GithubUsername.github.io
+
+# Can I delete these or are they still needed?
 twitter_username: LK64076007A
 github_username:  LK64076007A  
 
 # Podcast Feed Settings
-title:          Driftwood
-email:          your-podcast-contact-email
-description:    "A short form podcast hosted completely on Github."
-subtitle:       "Size isn't everything"
+title:          "Driftwood" # name of your podcast
+email:          michael@laccheo.com # CHANGE
+description:    "A short form podcast hosted completely on Github." # CHANGE
+subtitle:       "Size isn't everything" # CHANGE
 lang:           en-us
-author:         Michael
+author:         Michael # CHANGE
 copyright:      "&#x2117; &amp; &#xA9; 2016"
 
 
@@ -25,14 +27,13 @@ markdown: kramdown
 timezone: America/New_York
 
 # Basic
-name:               "Driftwood"
 
 # Navigation
 nav:
   - name:           "About"
-    href:           "/microcast/about"
+    href:           "/microcast/about" # CHANGE to match your repository
   - name:           "Subscribe"
-    href:           "/microcast/podcast.rss"
+    href:           "/microcast/podcast.rss" # CHANGE to match your repository
 
 # Sass
 sass:
