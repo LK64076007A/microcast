@@ -12,6 +12,7 @@ explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 permalink: /1
 ---
+
 {% for post in site.posts %}
 <audio controls>
 <source src="{{site.url}}{{site.baseurl}}{{ post.file }}" type="audio/x-m4a">
@@ -19,4 +20,3 @@ Your browser does not support the audio element.
 </audio>
 {{ post.shownotes }}
 {% endfor %}
-
