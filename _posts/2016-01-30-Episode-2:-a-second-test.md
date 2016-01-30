@@ -23,4 +23,5 @@ Your browser does not support the audio element.
 </audio>
 {{ page.shownotes }}
 
-{{ page.title 
+{{ page.title }}
+
