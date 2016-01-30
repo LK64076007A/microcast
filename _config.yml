@@ -25,7 +25,7 @@ markdown: kramdown
 timezone: America/New_York
 
 # Basic
-name:               "Drift"
+name:               "Driftwood"
 
 # Markdown
 markdown:           rdiscount
