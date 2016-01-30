@@ -21,7 +21,7 @@ permalink: /2
   <source src="{{site.url}}{{site.baseurl}}{{ post.file }}" type="audio/x-m4a">
 Your browser does not support the audio element.
 </audio>
-{{ site.post.shownotes }}
+{{ page.shownotes }}
 
 {{ page.title }}
 
