@@ -32,8 +32,12 @@ timezone: America/New_York
 nav:
   - name:           "About"
     href:           "/microcast/about" # CHANGE to match your repository
-  - name:           "Subscribe"
+  - name:           "Feed"
     href:           "/microcast/podcast.rss" # CHANGE to match your repository
+  - name:           "iTunes"
+    href:           "https://itunes.apple.com/us/podcast/driftwood/id1080157963" #CHANGE
+  - name:           "Overcast"
+    href:           "https://overcast.fm/itunes1080157963/driftwood" # CHANGE
 
 # Sass
 sass:

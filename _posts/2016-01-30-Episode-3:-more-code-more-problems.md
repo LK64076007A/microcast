@@ -7,7 +7,7 @@ shownotes: So, the second posting didn't go as well as I'd thought. A bunch of t
 summary: If at first you don't succeed...
 duration: "4:01" #audio length in min
 length: "3946459" #filesize in bytes
-explicit: "no" #other option is no
+explicit: "no" #other option is yes
 block: "no" #means is shown in itunes
 permalink: /3
 ---
